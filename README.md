@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hello, I’m Ning Jiang (江宁). I am currently a master's student majoring in Control Science and Engineering at [**Northeast Forestry University**](https://www.nefu.edu.cn/), advised by **[Prof. Yining Xie (NEFU, 谢怡宁)](https://ccec.nefu.edu.cn/info/1237/4302.htm)**.  
+Hello, I’m Ning Jiang (江宁). I am currently a master's student majoring in Control Science and Engineering at [**Northeast Forestry University**](https://www.nefu.edu.cn/), advised by Prof. **[Yining Xie (NEFU, 谢怡宁)](https://ccec.nefu.edu.cn/info/1237/4302.htm)**.  
 
 My research interests include multimodal medical imaging, continual learning and autonomous driving vision perception technology. I am still in the initial learning stage of my scientific research and have strong self-motivation. 
 
@@ -27,5 +27,5 @@ Currently, my total number of citations on Google Scholar is over 100. <a href='
 - **2022.05** American College Mathematical Contest in Modeling - **Meritorious Winner**.
 
 ## 📖 Educations
-- **2025.09 - 2028.06**, Master of Control Science and Engineering, Northeast Forestry University, Harbin, China. Supervised by [Prof. Yining Xie](https://ccec.nefu.edu.cn/info/1237/4302.htm)
-- **2020.09 - 2024.06**, Bachelor of Automation, Anhui Polytechnic University, Wuhu, China. Supervised by [Prof. Yaocong Hu](https://cee.ahpu.edu.cn/_s31/2023/0918/c2103a200999/page.psp), [Prof. Wei Zhang](https://www.ahpu.edu.cn/slxy/2018/0331/c2715a100596/page.htm), and [Prof. Ke Xu](https://loop.frontiersin.org/people/1333327/overview).
+- **2025.09 - 2028.06**, Master of Control Science and Engineering, Northeast Forestry University, Harbin, China. Supervised by Prof. [Yining Xie](https://ccec.nefu.edu.cn/info/1237/4302.htm)
+- **2020.09 - 2024.06**, Bachelor of Automation, Anhui Polytechnic University, Wuhu, China. Supervised by Prof. [Yaocong Hu](https://cee.ahpu.edu.cn/_s31/2023/0918/c2103a200999/page.psp), Prof. [Wei Zhang](https://www.ahpu.edu.cn/slxy/2018/0331/c2715a100596/page.htm), and Prof. [Ke Xu](https://loop.frontiersin.org/people/1333327/overview).
