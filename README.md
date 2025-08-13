@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hello, I’m Ning Jiang (江宁). I am currently a master's student majoring in Control Science and Engineering at [**Northeast Forestry University**](https://www.nefu.edu.cn/), advised by Prof. **[Yining Xie (NEFU, 谢怡宁)](https://ccec.nefu.edu.cn/info/1237/4302.htm)**.  
+Hello, I’m Ning Jiang (江宁). I am currently a master's student majoring in Control Science and Engineering at [Northeast Forestry University](https://www.nefu.edu.cn/), advised by Prof. [Yining Xie (NEFU, 谢怡宁)](https://ccec.nefu.edu.cn/info/1237/4302.htm).  
 
 My research interests include multimodal medical imaging, continual learning and autonomous driving vision perception technology. I am still in the initial learning stage of my scientific research and have strong self-motivation. 
 
