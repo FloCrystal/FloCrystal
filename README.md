@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-Hello, I’m Ning Jiang (江宁). I am currently a master's student majoring in Control Science and Engineering at [Northeast Forestry University](https://www.nefu.edu.cn/), advised by Prof. [Yining Xie (NEFU, 谢怡宁)](https://ccec.nefu.edu.cn/info/1237/4302.htm).  
+- 🔭 I’m currently a master's student at [Northeast Forestry University](https://www.nefu.edu.cn/), advised by Prof. [Yining Xie (NEFU, 谢怡宁)](https://ccec.nefu.edu.cn/info/1237/4302.htm). 
+- 💬 My research interests include multimodal medical imaging, continual learning and person re-identification. 
+- 📫 If you are seeking any form of **academic cooperation**, please feel free to email me at `jiangning@nefu.edu.cn`.
 
-My research interests include multimodal medical imaging, continual learning and person re-identification. I am still in the initial learning stage of my scientific research and have strong self-motivation. If you are seeking any form of **academic cooperation**, please feel free to email me at jiangning@nefu.edu.cn
-
-Currently, my total number of citations on Google Scholar is over 100. <a href='https://scholar.google.com/citations?user=XfKD8e8AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FFloCrystal%2Fflocrystal.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 
 ## 🔥 News
 - **2024.06**: &nbsp;📣📣 I received my B.E. degree from [Anhui Polytechnic University (AHPU)](https://www.ahpu.edu.cn/), awarded the Outstanding Graduate!
