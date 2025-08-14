@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently a master's student at [Northeast Forestry University](https://www.nefu.edu.cn/), advised by Prof. [Yining Xie (NEFU, 谢怡宁)](https://ccec.nefu.edu.cn/info/1237/4302.htm). 
 - 💬 My research interests include multimodal medical imaging, continual learning and person re-identification. 
-- 📫 If you are seeking any form of **academic cooperation**, please feel free to email me at `jiangning@nefu.edu.cn`.
+- 📫 If you are seeking any form of **academic cooperation**, please feel free to email me at `jiangning@nefu.edu.cn`
 
 
 ## 🔥 News
