@@ -22,7 +22,6 @@
 - **2024.05** Outstanding Graduate of Regular Higher Education Institutions in Anhui Province.
 - **2023.09** Top 100 University Students of Anhui Province.
 - **2023.04** China International“Internet Plus” College Students’ Innovation and Entrepreneurship Competition - **National Bronze Award**.
-- **2022.05** American College Mathematical Contest in Modeling - **Meritorious Winner**.
 
 ## 📖 Educations
 - **2025.09 - 2028.06**, Master of Control Science and Engineering, Northeast Forestry University, Harbin, China. Supervised by Prof. [Yining Xie](https://ccec.nefu.edu.cn/info/1237/4302.htm)
