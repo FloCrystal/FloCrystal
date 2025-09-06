@@ -6,7 +6,8 @@
 
 
 ## 🔥 News
-- **now**: &nbsp;🎓🎓 I have **2** papers that have been submitted and are **under review**.
+- **now**: &nbsp;🎓🎓 I have **1** paper that have been submitted and are **under review**.
+- **2025.09**: &nbsp;🎉🎉 Our new paper has been accepted by **Sensors**!
 - **2024.06**: &nbsp;📣📣 I received my B.E. degree from [Anhui Polytechnic University (AHPU)](https://www.ahpu.edu.cn/), awarded the Outstanding Graduate!
 - **2022.10**: &nbsp;🎉🎉 Our new paper has been accepted by **Agriculture**!
 
